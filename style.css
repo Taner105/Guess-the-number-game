@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#user-forecast,#com-forecast{
+    width: 500px;
+    height: 400px;
+    float: left;
+    background-color: red;
+    margin-right: 5px;
+    background-repeat: no-repeat;
+    background-position: 100px 30px;
+}
+button{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: orange;
+    color: #fff;
+    border: none;
+    margin: 5px;
+}
+button:hover{
+    background-color: rgb(53, 35, 3);
+}
+span{
+    background-color: orange;
+    color: #fff;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 2px;    
+
+}
